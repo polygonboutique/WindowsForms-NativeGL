@@ -33,7 +33,7 @@ void LibClass::SetHWND(HWND hwnd)
 
 void LibClass::Update()
 {
-	glClearColor(0.2, 1, 0.5, 1);
+	glClearColor(1.0f, 1.0f, 0.5, 1);
 	glClear(GL_COLOR_BUFFER_BIT);
 	SwapBuffers(hDc);
 }
