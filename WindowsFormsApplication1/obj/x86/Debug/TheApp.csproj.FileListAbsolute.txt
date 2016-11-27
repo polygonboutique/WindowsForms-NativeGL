@@ -1,0 +1,11 @@
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe.config
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.exe
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\WindowsFormsApplication1.pdb
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\TheWrapper.dll
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\x86\Debug\TheWrapper.pdb
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\TheApp.csprojResolveAssemblyReference.cache
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\TheApp.csproj.GenerateResource.Cache
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.exe
+c:\users\sergej\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.pdb
